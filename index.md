@@ -1,16 +1,13 @@
 ---
 layout: default
 ---
-# Alvaro Nistal Cañal
 
+Researcher of new technologies with a focus on distributed systems, microservices, and real-time applications. Determined, hardworking, and always fully engaged.
+
+## Contact
 **Email:** alvaro.nistal@gmail.com  
 **LinkedIn:** [linkedin.com/in/anistal](https://linkedin.com/in/anistal)  
 **GitHub:** [github.com/anistal](https://github.com/anistal)  
-
----
-
-## Summary
-Researcher of new technologies with a focus on distributed systems, microservices, and real-time applications. Determined, hardworking, and always fully engaged.
 
 ---
 
